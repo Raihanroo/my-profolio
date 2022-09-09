@@ -1,0 +1,39 @@
+
+@media (min-width: 769px) and (max-width: 991px) {
+    .navbar .menu_bar {
+        top: -100%;
+        width: 100%;
+        text-align: center;
+        transition: linear 0.5s;
+    }
+    .menu_btn i.xxxx::before {
+        content: '\f00d';
+    }
+
+}
+
+
+@media (min-width: 576.98px) and (max-width:767.98px) {
+
+}
+
+@media (max-width: 767.98px) {
+
+}
+
+
+
+@media (min-width: 768px) and (max-width:991.98px)  { 
+
+}
+
+
+@media (min-width: 992.98px) and (max-width:1199.98px) {
+
+}
+
+
+
+@media (min-width: 1200px) and (max-width:1399.98px) {
+
+}
